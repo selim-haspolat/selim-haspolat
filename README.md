@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="500"></br>
 
-## 👋🏻 Hi there, I'm Selim
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=16&duration=4000&pause=10&color=F7F7F7&width=435&lines=Hi+There%2C;I'm+Selim+HASPOLAT)](https://git.io/typing-svg)
 
 <font color="pink"> 🐱‍🏍 I'm Automotive Engineer but I find myself in software. </font>
 </br>
