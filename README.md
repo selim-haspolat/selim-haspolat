@@ -97,8 +97,9 @@
 
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[Vanilla JS Todo App](https://szrokmn.github.io/Todo-App/) <h3>[Repo](https://github.com/szrokmn/Todo-App)</h3> | Vanilla JS, PureCSS |![todo](https://user-images.githubusercontent.com/109314125/215288680-0123a845-7520-486c-8c3b-a0572b02b5c9.gif)
-[Checout-Page](https://github.com/selim-haspolat/checkout-page-mock-api.git) <h3>[Repo](https://github.com/selim-haspolat/checkout-page-mock-api.git)</h3> | ReactJs Tailwindcss |![check-out](https://user-images.githubusercontent.com/118964736/222241497-be40b90f-a010-4654-9b8a-011d71200363.gif)
+[Connect](https://connect-s.vercel.app/) <h3>[Repo](https://github.com/selim-haspolat/connect)</h3> | ReactJs, Tailwindcss,Api,Local Storage |![connect](https://user-images.githubusercontent.com/118964736/223391273-56005e61-9dc8-42bc-ae4a-35e58e1dccd3.gif)
+[Checout-Page](https://checkout-page-api.netlify.app/) <h3>[Repo](https://github.com/selim-haspolat/checkout-page-mock-api.git)</h3> | ReactJs, Tailwindcss,Api |![check-out](https://user-images.githubusercontent.com/118964736/222241497-be40b90f-a010-4654-9b8a-011d71200363.gif)
+[Todo App](https://selim-haspolat.github.io/ToDo-App-2/) <h3>[Repo](https://github.com/selim-haspolat/ToDo-App-2)</h3> | Vanilla JS, PureCSS ,Local Storage| ![todo-app](https://user-images.githubusercontent.com/118964736/213920626-f014e6f3-bed2-4e99-94b4-dcf4e057bc58.gif)
 
 
 
