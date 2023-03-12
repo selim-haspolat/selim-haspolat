@@ -4,6 +4,9 @@
 
 <font color="white"> 🐱‍🏍 I'm Automotive Engineer but I find myself in software. </font>
 </br>
+</br>
+![](https://komarev.com/ghpvc/?username=selim-haspolat&color=green)
+</br>
 
 #### 📬 Connect with me:
 
