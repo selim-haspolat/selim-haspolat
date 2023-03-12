@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="500"></br>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="400"></br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=16&duration=4000&pause=10&color=F7F7F7&width=435&lines=Hi+There%2C;I'm+Selim+HASPOLAT)](https://git.io/typing-svg)
 
@@ -14,7 +14,7 @@
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selimhaspolat/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:selimhaspolat@gmail.com)
-[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://https://medium.com/@szrokmn34)
+[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://https://medium.com/)
 
 </br>
 </br>
