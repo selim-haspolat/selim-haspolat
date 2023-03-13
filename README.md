@@ -107,7 +107,9 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 [Connect](https://connect-s.vercel.app/) <h3>[Repo](https://github.com/selim-haspolat/connect)</h3> | ReactJs, Tailwindcss,Mock Api,Local Storage |![connect](https://user-images.githubusercontent.com/118964736/223391273-56005e61-9dc8-42bc-ae4a-35e58e1dccd3.gif)
 [Checout-Page](https://checkout-page-api.netlify.app/) <h3>[Repo](https://github.com/selim-haspolat/checkout-page-mock-api.git)</h3> | ReactJs, Tailwindcss,Mock Api |![check-out](https://user-images.githubusercontent.com/118964736/222241497-be40b90f-a010-4654-9b8a-011d71200363.gif)
 [Todo App](https://selim-haspolat.github.io/ToDo-App-2/) <h3>[Repo](https://github.com/selim-haspolat/ToDo-App-2)</h3> | Vanilla JS, PureCSS ,Local Storage| ![todo-app](https://user-images.githubusercontent.com/118964736/213920626-f014e6f3-bed2-4e99-94b4-dcf4e057bc58.gif)
-[Blog App](blog-app-s.netlify.app/) <h3>[Repo](https://github.com/selim-haspolat/blog-app)</h3> | ReactJs, Tailwindcss , JSON placeholder API|![blog-app](https://user-images.githubusercontent.com/118964736/224534423-6c248f2c-d911-40ed-b5ad-7e2864656828.gif)
+[Blog App](https://blog-app-s.netlify.app/) <h3>[Repo](https://github.com/selim-haspolat/blog-app)</h3> | ReactJs, Tailwindcss , JSON placeholder API|![blog-app](https://user-images.githubusercontent.com/118964736/224534423-6c248f2c-d911-40ed-b5ad-7e2864656828.gif)
+[Movie App](https://movie-app-auth.vercel.app/) <h3>[Repo](https://github.com/selim-haspolat/movie-app-auth)</h3> | ReactJs, Tailwindcss , JSON Firebase|![movie-app](https://user-images.githubusercontent.com/118964736/224776237-0a8ab268-64d8-4a2a-b4ca-a6e90aa30e77.gif)
+
 
 
 
