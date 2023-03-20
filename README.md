@@ -130,3 +130,7 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
      alt=""
      /> <br/>
 </div>
+
+<p align="center">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=selim-haspolat&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
+</p>
