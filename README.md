@@ -104,6 +104,7 @@
 
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
+[CodeFixer](https://code-fixer.vercel.app/) <h3>[Repo](https://github.com/selim-haspolat/CodeFixer)</h3> | React, Typescript, Tailwindcss, Firebase, gsap(greensock) ,React Router |![code-fixer](https://user-images.githubusercontent.com/118964736/227782425-a4c2f79a-303f-4eed-b299-89f15fe83c66.gif)
 [Connect](https://connect-s.vercel.app/) <h3>[Repo](https://github.com/selim-haspolat/connect)</h3> | ReactJs, Tailwindcss,Mock Api,Local Storage |![connect](https://user-images.githubusercontent.com/118964736/223391273-56005e61-9dc8-42bc-ae4a-35e58e1dccd3.gif)
 [Movie App](https://movie-app-auth.vercel.app/) <h3>[Repo](https://github.com/selim-haspolat/movie-app-auth)</h3> | ReactJs, Tailwindcss , JSON Firebase|![movie-app](https://user-images.githubusercontent.com/118964736/224776237-0a8ab268-64d8-4a2a-b4ca-a6e90aa30e77.gif)
 [Checout-Page](https://checkout-page-api.netlify.app/) <h3>[Repo](https://github.com/selim-haspolat/checkout-page-mock-api.git)</h3> | ReactJs, Tailwindcss,Mock Api |![check-out](https://user-images.githubusercontent.com/118964736/222241497-be40b90f-a010-4654-9b8a-011d71200363.gif)
